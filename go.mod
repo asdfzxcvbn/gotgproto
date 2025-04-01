@@ -1,4 +1,4 @@
-module github.com/celestix/gotgproto
+module github.com/asdfzxcvbn/gotgproto
 
 go 1.23.3
 
